@@ -25,7 +25,7 @@ class _CounterpageState extends State<Counterpage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             //message
-              Text("You have pushed the button this many times:"),
+              Text("You have pushed this button these many times:"),
 
               Text(
                 _counter.toString(),
